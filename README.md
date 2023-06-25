@@ -5,3 +5,13 @@ FRONTEND  - MIDDLE-END - BACKEND
   should actually respond to this request
 - We can do message validation, response transformation, rate limiting
 - We try to prepare an API Gateway that acts as this middle end.
+
+### Different Microservices
+- Flight Booking Service 
+`https://github.com/Abhigupta13/AirTicketBookingService-Airline` 
+- Flight Search Service
+`https://github.com/Abhigupta13/FlightsAndSearchService-Airline`
+- Authentication Service 
+`https://github.com/Abhigupta13/AuthService-Airline`
+- Reminder Service 
+`https://github.com/Abhigupta13/ReminderService-Airline`
